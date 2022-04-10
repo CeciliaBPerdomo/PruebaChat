@@ -50,4 +50,11 @@ srv.on('error', error => console.log(`Error en el servidor ${error}`))
 1) en la terminal integrada: git init 
 2) crear un archivo .gitignore
 3) en .gitignore escribir: /node_modules
+4) crear repositorio en git
+5) clonar
+6) en la terminal integrada git add . 
+7) git commit -m "first commit"
+8) git remote add origin https://github.com/CeciliaBPerdomo/PruebaChat.git
+9) git push
+10) git push --set-upstream origin master
 */
